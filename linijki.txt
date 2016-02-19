@@ -1,11 +1,8 @@
 nowa linia n
 nowa linia 9
 nowa linia 8
-nowa linia 7
 nowa linia 6
 nowa linia 5
-nowa linia 4
 nowa linia 3
-nowa linia 2
 nowa linia 1
 
