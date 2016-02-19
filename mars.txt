@@ -1,6 +1,7 @@
 mars to planeta. jest czerwona.
 kobiety sa z marsa
 
+<<<<<<< HEAD
 wiecej informacji
 jeszcze wiecej
 moar
@@ -8,3 +9,9 @@ moarmoar
 moarmoarmoarmoar
 moarmoarmoarmoarmoarmoarmoarmoar
 moarmoarmoarmoarmoarmoarmoarmoarmoarmoarmoarmoarmoarmoarmoarmoar
+=======
+dodaje nowa informacje 
+i kolejne
+i 3 linijke
+hhohohohohoh
+>>>>>>> 960f97b304690a169c8b7815d3cdc9880306e4d7
